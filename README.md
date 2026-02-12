@@ -24,7 +24,7 @@ Application web permettant aux utilisateurs de :
 - Réserver des places
 - Visualiser les sièges disponibles
 
- Voir le projet : https://github.com/tadoumkam237-créer/site-reservation-cinema
+ Voir le projet : (https://github.com/VivanBoy/cinema-reservation)
 
 
 ---
